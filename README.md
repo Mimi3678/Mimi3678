@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/miriam-sarpong-353321220/)">
-    <img src="https://www.iconfinder.com/icons/6214505/linkedin_logo_icon" alt="LinkedIn Badge"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Instagram-512.png" alt="Instagram Badge"/>
