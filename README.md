@@ -51,5 +51,9 @@ I am an aspiring frontend developer <img src="https://media3.giphy.com/media/v1.
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mimi3678&theme=catppuccin-macchiato)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimi3678&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
