@@ -4,18 +4,12 @@
 
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/miriam-sarpong-353321220/)">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" alt="LinkedIn Badge"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" alt="LinkedIn Badge" width="250"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Instagram-512.png" alt="Instagram Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="your-instagram-URL">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Instagram-512.png" alt="Instagram Badge" width="250"/>
   </a>
 </div>
-
-https://img.shields.io/badge/LinkedIn-blue
-https://img.shields.io/badge/Instagram-pink
 
 Here are some ideas to get you started:
 
