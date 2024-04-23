@@ -4,10 +4,10 @@
 
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/miriam-sarpong-353321220/)">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" alt="LinkedIn Badge" width="90" align="center"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" alt="LinkedIn Badge" width="30" align="center"/>
   </a>
   <a href="your-instagram-URL">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Instagram-512.png" alt="Instagram Badge" width="90" align="center"/>
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Instagram-512.png" alt="Instagram Badge" width="30" align="center"/>
   </a>
 </div>
 
