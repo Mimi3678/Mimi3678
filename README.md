@@ -44,5 +44,12 @@ I am an aspiring frontend developer <img src="https://media3.giphy.com/media/v1.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="45" height="45"/>
-
 </p>
+
+-----
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=user=mimi3678&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
