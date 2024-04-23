@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone! height=100"/>
+  <img src="https://capsule-render.vercel.app/api?" height="100"/>
 </p>
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*89xL_--7GIoVjXairvk-1w.gif" width="350"/>
 </div>
