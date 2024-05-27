@@ -4,7 +4,7 @@
 
 # Hey there! Let´s connect and have a chat 💬
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/miriam-sarpong-353321220/)">
+  <a href="https://www.linkedin.com/in/miriam-sarpong-353321220/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" alt="LinkedIn Badge" width="50"/>
   </a>
 </div>
